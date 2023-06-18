@@ -173,7 +173,7 @@ class EnvClassifier {
         const val TAG = "EnvClassifier"
 
         const val DEFAULT_REFRESH_INTERVAL_MS = 33L
-        const val LONG_REFRESH_INTERVAL_MS = 66L
+        const val LONG_REFRESH_INTERVAL_MS = 99L
         const val YAMNET_MODEL = "yamnet_classification.tflite"
 
         const val THRESHOLD = 0.3f
